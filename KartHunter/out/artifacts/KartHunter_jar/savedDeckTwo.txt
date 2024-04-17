@@ -1,0 +1,37 @@
+[CARD 1]    
+NAME: Aesi, Tyrant of Gyre Strait  
+MANA: {4}{G}{U}    
+TYPE: Legendary Creature — Serpent 
+POWER/TOUGHNESS: [5\5] 
+
+ABILITY: You may play an additional land on each of your turns.
+Landfall — Whenever a land enters the battlefield under your control, you may draw a card.
+
+
+[CARD 2]    
+NAME: Island  
+MANA: null    
+TYPE: Basic Land — Island 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {U}.)
+
+
+[CARD 3]    
+NAME: Island  
+MANA: null    
+TYPE: Basic Land — Island 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {U}.)
+
+
+[CARD 4]    
+NAME: Island  
+MANA: null    
+TYPE: Basic Land — Island 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {U}.)
+
+

@@ -1,0 +1,201 @@
+[CARD 1]    
+NAME: Volo, Guide to Monsters  
+MANA: {2}{G}{U}    
+TYPE: Legendary Creature — Human Wizard 
+POWER/TOUGHNESS: [3\2] 
+
+ABILITY: Whenever you cast a creature spell that doesn't share a creature type with a creature you control or a creature card in your graveyard, copy that spell. (A copy of a creature spell becomes a token.)
+
+
+[CARD 2]    
+NAME: Aesi, Tyrant of Gyre Strait  
+MANA: {4}{G}{U}    
+TYPE: Legendary Creature — Serpent 
+POWER/TOUGHNESS: [5\5] 
+
+ABILITY: You may play an additional land on each of your turns.
+Landfall — Whenever a land enters the battlefield under your control, you may draw a card.
+
+
+[CARD 3]    
+NAME: Ornithopter of Paradise  
+MANA: {2}    
+TYPE: Artifact Creature — Thopter 
+POWER/TOUGHNESS: [0\2] 
+
+ABILITY: Flying
+{T}: Add one mana of any color.
+
+
+[CARD 4]    
+NAME: Volo, Guide to Monsters  
+MANA: {2}{G}{U}    
+TYPE: Legendary Creature — Human Wizard 
+POWER/TOUGHNESS: [3\2] 
+
+ABILITY: Whenever you cast a creature spell that doesn't share a creature type with a creature you control or a creature card in your graveyard, copy that spell. (A copy of a creature spell becomes a token.)
+
+
+[CARD 5]    
+NAME: Thunderfoot Baloth  
+MANA: {4}{G}{G}    
+TYPE: Creature — Beast 
+POWER/TOUGHNESS: [5\5] 
+
+ABILITY: Trample
+Lieutenant — As long as you control your commander, Thunderfoot Baloth gets +2/+2 and other creatures you control get +2/+2 and have trample.
+
+
+[CARD 6]    
+NAME: Clever Impersonator  
+MANA: {2}{U}{U}    
+TYPE: Creature — Shapeshifter 
+POWER/TOUGHNESS: [0\0] 
+
+ABILITY: You may have Clever Impersonator enter the battlefield as a copy of any nonland permanent on the battlefield.
+
+
+[CARD 7]    
+NAME: Summer Bloom  
+MANA: {1}{G}    
+TYPE: Sorcery 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: You may play up to three additional lands this turn.
+
+
+[CARD 8]    
+NAME: Forest  
+MANA: null    
+TYPE: Basic Land — Forest 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {G}.)
+
+
+[CARD 9]    
+NAME: Forest  
+MANA: null    
+TYPE: Basic Land — Forest 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {G}.)
+
+
+[CARD 10]    
+NAME: Forest  
+MANA: null    
+TYPE: Basic Land — Forest 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {G}.)
+
+
+[CARD 11]    
+NAME: Forest  
+MANA: null    
+TYPE: Basic Land — Forest 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {G}.)
+
+
+[CARD 12]    
+NAME: Forest  
+MANA: null    
+TYPE: Basic Land — Forest 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {G}.)
+
+
+[CARD 13]    
+NAME: Forest  
+MANA: null    
+TYPE: Basic Land — Forest 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {G}.)
+
+
+[CARD 14]    
+NAME: Forest  
+MANA: null    
+TYPE: Basic Land — Forest 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {G}.)
+
+
+[CARD 15]    
+NAME: Forest  
+MANA: null    
+TYPE: Basic Land — Forest 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {G}.)
+
+
+[CARD 16]    
+NAME: Tropical Island  
+MANA: null    
+TYPE: Land — Forest Island 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {G} or {U}.)
+
+
+[CARD 17]    
+NAME: Island  
+MANA: null    
+TYPE: Basic Land — Island 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {U}.)
+
+
+[CARD 18]    
+NAME: Island  
+MANA: null    
+TYPE: Basic Land — Island 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {U}.)
+
+
+[CARD 19]    
+NAME: Island  
+MANA: null    
+TYPE: Basic Land — Island 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {U}.)
+
+
+[CARD 20]    
+NAME: Island  
+MANA: null    
+TYPE: Basic Land — Island 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {U}.)
+
+
+[CARD 21]    
+NAME: Island  
+MANA: null    
+TYPE: Basic Land — Island 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {U}.)
+
+
+[CARD 22]    
+NAME: Island  
+MANA: null    
+TYPE: Basic Land — Island 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {U}.)
+
+

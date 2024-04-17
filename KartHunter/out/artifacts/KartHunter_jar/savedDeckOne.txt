@@ -1,0 +1,45 @@
+[CARD 1]    
+NAME: Volo, Guide to Monsters  
+MANA: {2}{G}{U}    
+TYPE: Legendary Creature — Human Wizard 
+POWER/TOUGHNESS: [3\2] 
+
+ABILITY: Whenever you cast a creature spell that doesn't share a creature type with a creature you control or a creature card in your graveyard, copy that spell. (A copy of a creature spell becomes a token.)
+
+
+[CARD 2]    
+NAME: Forest  
+MANA: null    
+TYPE: Basic Land — Forest 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {G}.)
+
+
+[CARD 3]    
+NAME: Forest  
+MANA: null    
+TYPE: Basic Land — Forest 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {G}.)
+
+
+[CARD 4]    
+NAME: Forest  
+MANA: null    
+TYPE: Basic Land — Forest 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {G}.)
+
+
+[CARD 5]    
+NAME: Forest  
+MANA: null    
+TYPE: Basic Land — Forest 
+POWER/TOUGHNESS: [null\null] 
+
+ABILITY: ({T}: Add {G}.)
+
+
