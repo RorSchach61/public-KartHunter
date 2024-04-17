@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <!-- Project info -->
+    <groupId>com.KartHunter</groupId>
+    <artifactId>my-card-searcher</artifactId>
+    <version>0.1-Testing</version>
+    
+<!-- Dependencies -->
+<dependencies>
+	<dependency>
+    <groupId>io.magicthegathering</groupId>
+    <artifactId>javasdk</artifactId>
+    <version>0.0.18</version>
+	</dependency>
+</dependencies>
+</project>
