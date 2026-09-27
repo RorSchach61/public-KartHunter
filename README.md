@@ -19,18 +19,6 @@ This is a Magic the Gathering deck builder utility. To use download and open a c
 
 NOTE: Certain cards will display elements of null type, I could not think of an easy way to fix this, so if a card displays one of its attributes as null, either in the final savedDeck.txt file or in the app itself, its because that attribute does not exist for a card of that type. For instance, searching for an island card will return an island with mana cost null, this is because basic lands do not cost any mana to cast. 
 
-# Challenges
-
-One of the first major challeneges I encountered was simply the scope of this project, I would be lying if I said I have enjoyed programming all that much up until this point, but I knew this project would require a lot of effort and time so I made sure to start exactly two weeks out from the due date. This included a lot of research, I didn't want to use local files because they were simply too big, and it would mean that the program  would update with new cards as new magic cards are released. I put a lot of focus into getting the api calls to work. It was sorta a big challenge just to get the program to call for and return a magic card, and I dedicated about two days trying to figure it out, ultimately switching IDEs to intellij was the simplest solution, though I am sure I could have made things work in Geany, it became far to confusing for me, and intellij essentially did most of the work for me, in regards to getting the dependencies to work. 
-
-The next challenge I faced was the size of the magic api, there are over 27,000 unique cards in magic the gathering and hundreds are added each year. Making something that searched for a specific card out of the 27,000 was more difficult than I thought, creating a filter for the list was essential as without it, loading the entire list causes the program to hang for several minutes each time a card is needed to be called. This was grossly ineffecient. Iterating thorugh the list to display the deck confused me a good amount and I did end up asking chatgpt a few questions about it, it pointed me towards incorporating iterators. This made going through the list, and adding and removing cards a lot easier.
-
-Another problem I encountered was forest cards, for some odd reason typing Forest would return the card 'Karplusan Forest', however I wanted it to just return a forest card, I added a conditional statement because I figured if a user is entering just "forest" into the console, they probably just want a basic land forest. This was an easy fix in hindsight but it took me awhile to come up with a solution.  
-
-If I had to say one specific area of this project that gave me the most trouble, it would be the research that was required, the java magic sdk is not super well documented and while the discord on that page, did help a bit, my biggest problem was a lack of info. However I broke the project up into good chunks, essentially trying to work on one method per day, get it working then move onto the next thing as to not overwhelm myself. 
-
-I am faily happy with this project, when I first started I immediately felt a lot less confident in my programming abilities, and in hindsight, I definitely could have structured things a lot cleaner I realize this, but it works as intended. Screenshots are provided in the KartHunter folder, in there you will find a folder named screenshots that will house all my sc's. 
-
 # SoftWare used
 
 JDK 21
